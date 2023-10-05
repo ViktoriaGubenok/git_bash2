@@ -1,95 +1,48 @@
-1  mkdir dir_1
-  
+1  mkdir dir_1  
 2  cd dir_1
-  
 3  mkdir inner_dir_1
- 
 4  pwd
-  
 5  cat > tf_1.txt 
-  
 6  cat > tf_2.txt 
-  
 7  cd inner_dir_1
-  
 8  cat > tf_3.txt 
-  
 9  cat >> tf_3.txt 
-  
 10  cat >> tf_3.txt 
-  
 11  cd .. 
-  
 12  cat >> tf_2.txt 
-  
 13  cd inner_dir_1
-  
 14  cat >> tf_3.txt 
-  
 15  cd ..
-  
 16  cat >> tf_2.txt 
-  
 17  cat > tf_4.txt
-  
 18  cat > tF_5.txt
-  
 19  ls -la
-  
 20  cd inner_dir_1
-  
 21  cd ..
-  
 22  cd inner_dir_1
-  
 23  cat tf_3.txt
-  
 24  cd ..
-   
 25  find . -name "tf_4.txt"
-  
 26  : > tf_4.txt
-  
 27  find . -name "tf*"
-  
 28  find . -iname "tf*"
-  
 29  grep -r "sec" .
-  
 30  grep -ir "sec" .
-  
 31  grep -rw "sec" .
-  
 32  grep -irw "sec" .
-  
 33  grep -r "second" .
-  
 34  grep -ir "second" 
-  
 35  grep -r "second" ../
-  
 36  grep -rl "second" .
-  
 37  grep -rv "second" .
-  
 38  grep -rvl “second” . 
-  
 39  tail n 4 tF_5.txt
-  
 40  head n 4 tF_5.txt
-  
 41  mkdir work &&  cat > work/user1.txt
-  
 42  grep -lir "sec" . | xargs -I"{}" mv "{}" ./work
-  
 43  grep -lir "sec" . | xargs -I"{}" cp "{}" ./inner_dir_1
-  
 44  grep -r "sec" . > filesec.txt
-  
 45  grep -rl "sec" . | xargs rm
-  
 46  echo 'Good job!!'
-  
 47  history
-  
 48  history >> histori_git_bash2.txt

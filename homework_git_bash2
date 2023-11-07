@@ -8,7 +8,10 @@ the first 1 (Enter)
 the second 2 (Enter)
 the third 3 (Enter, Ctrl+C)
 7  cd inner_dir_1 (Зайти в папку inner_dir_1) 
-8  cat > tf_3.txt 
+8  cat > tf_3.txt (Через cat сделать текстовый файл tf_3.txt c любыми строками) 
+payment1 (Enter)
+payment2 (Enter)
+payment3 (Enter, Ctrl+C)
 9  cat >> tf_3.txt 
 10  cat >> tf_3.txt 
 11  cd .. 

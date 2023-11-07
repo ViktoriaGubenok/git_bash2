@@ -12,7 +12,8 @@ the third 3 (Enter, Ctrl+C)
 payment1 (Enter)
 payment2 (Enter)
 payment3 (Enter, Ctrl+C)
-9  cat >> tf_3.txt 
+9  cat >> tf_3.txt (Через cat добавить в текстовый файл tf_3.txt строку “the second 2”)
+the second 2 (Enter, Ctrl+C) 
 10  cat >> tf_3.txt 
 11  cd .. 
 12  cat >> tf_2.txt 

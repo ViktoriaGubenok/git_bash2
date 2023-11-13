@@ -69,7 +69,7 @@ debiting_9
 debiting_10
 debiting_11
 debiting_12
-debiting_13 (Enter, Ctrl+C)
+debiting_13 (Ctrl+C)
 16) Вывести список всех файлов в папке.
 ls -la
 17) Выйти из папки inner_dir_1

@@ -33,7 +33,7 @@ the sec 3 (Ctrl+C)
 12) Через cat добавить в текстовый файл tf_3.txt строку “the SeCoNd 2” 
 cd inner_dir_1
 cat >> tf_3.txt (Enter)
-the SeCoNd 2 (Enter, Ctrl+C) 
+the SeCoNd 2 (Ctrl+C) 
 13) Через cat добавить в текстовый файл tf_2.txt строку “the seConD 2”
 cd ..
 cat >> tf_2.txt (Enter)

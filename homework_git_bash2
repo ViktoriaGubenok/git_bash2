@@ -40,21 +40,21 @@ cat >> tf_2.txt (Enter)
 the seConD 2 (Ctrl+C)
 14) Сделать текстовый файл tf_4.txt, в котором будет 15 строк
 cat > tf_4.txt
-receipt_1
-receipt_2
-receipt_3
-receipt_4
-receipt_5
-receipt_6
-receipt_7
-receipt_8
-receipt_9
-receipt_10
-receipt_11
-receipt_12
-receipt_13
-receipt_14
-receipt_15 (Enter, Ctrl+C)
+receipt_1 (Enter)
+receipt_2 (Enter)
+receipt_3 (Enter)
+receipt_4 (Enter)
+receipt_5 (Enter)
+receipt_6 (Enter)
+receipt_7 (Enter)
+receipt_8 (Enter)
+receipt_9 (Enter)
+receipt_10 (Enter)
+receipt_11 (Enter)
+receipt_12 (Enter)
+receipt_13 (Enter)
+receipt_14 (Enter)
+receipt_15 (Ctrl+C)
 15) Сделать текстовый файл tF_5.txt, в котором будет 13 строк
 cat > tF_5.txt
 debiting_1

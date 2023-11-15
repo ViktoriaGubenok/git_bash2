@@ -16,10 +16,10 @@ the third 3 (Ctrl+C)
 7) Зайти в папку inner_dir_1  
 cd inner_dir_1 
 8) Через cat сделать текстовый файл tf_3.txt  c любыми строками 
- cat > tf_3.txt (Enter)
+cat > tf_3.txt (Enter)
 payment1 (Enter)
 payment2 (Enter)
-payment3 (Enter, Ctrl+C)
+payment3 (Ctrl+C)
 9) Через cat добавить в текстовый файл tf_3.txt строку “the second 2” 
 cat >> tf_3.txt (Enter)
 the second 2 (Enter, Ctrl+C) 

@@ -25,7 +25,7 @@ cat >> tf_3.txt (Enter)
 the second 2 (Ctrl+C) 
 10) Через cat добавить в текстовый файл tf_3.txt строку “the sec 2”
 cat >> tf_3.txt (Enter)
-the sec 2 (Enter, Ctrl+C) 
+the sec 2 (Ctrl+C) 
 11) Через cat добавить в текстовый файл tf_2.txt строку “the sec 3”
 cd .. 
 cat >> tf_2.txt (Enter)

@@ -56,7 +56,7 @@ receipt_13 (Enter)
 receipt_14 (Enter)
 receipt_15 (Ctrl+C)
 15) Сделать текстовый файл tF_5.txt, в котором будет 13 строк
-cat > tF_5.txt
+cat > tF_5.txt (Enter)
 debiting_1
 debiting_2
 debiting_3

@@ -39,7 +39,7 @@ cd ..
 cat >> tf_2.txt (Enter)
 the seConD 2 (Ctrl+C)
 14) Сделать текстовый файл tf_4.txt, в котором будет 15 строк
-cat > tf_4.txt
+cat > tf_4.txt (Enter)
 receipt_1 (Enter)
 receipt_2 (Enter)
 receipt_3 (Enter)
@@ -57,7 +57,7 @@ receipt_14 (Enter)
 receipt_15 (Ctrl+C)
 15) Сделать текстовый файл tF_5.txt, в котором будет 13 строк
 cat > tF_5.txt (Enter)
-debiting_1
+debiting_1 (Enter)
 debiting_2
 debiting_3
 debiting_4

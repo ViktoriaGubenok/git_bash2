@@ -59,16 +59,16 @@ receipt_15 (Ctrl+C)
 cat > tF_5.txt (Enter)
 debiting_1 (Enter)
 debiting_2 (Enter)
-debiting_3
-debiting_4
-debiting_5
-debiting_6
-debiting_7
-debiting_8
-debiting_9
-debiting_10
-debiting_11
-debiting_12
+debiting_3 (Enter)
+debiting_4 (Enter)
+debiting_5 (Enter)
+debiting_6 (Enter)
+debiting_7 (Enter)
+debiting_8 (Enter)
+debiting_9 (Enter)
+debiting_10 (Enter)
+debiting_11 (Enter)
+debiting_12 (Enter)
 debiting_13 (Ctrl+C)
 16) Вывести список всех файлов в папке.
 ls -la
